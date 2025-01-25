@@ -1,0 +1,114 @@
+{
+  "properties": [
+    {
+      "id": 1,
+      "name": "Luxury Villa",
+      "price": "$1,200,000",
+      "location": "Beverly Hills, CA",
+      "image": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750",
+      "beds": 5,
+      "baths": 4,
+      "sqft": 4200,
+      "type": "sale"
+    },
+    {
+      "id": 2,
+      "name": "Modern Apartment",
+      "price": "$3,500/month",
+      "location": "Manhattan, NY",
+      "image": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2",
+      "beds": 2,
+      "baths": 2,
+      "sqft": 1200,
+      "type": "rent"
+    },
+    {
+      "id": 3,
+      "name": "Beachfront Condo",
+      "price": "$850,000",
+      "location": "Miami Beach, FL",
+      "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914",
+      "beds": 3,
+      "baths": 2,
+      "sqft": 1800,
+      "type": "sale"
+    },
+    {
+      "id": 4,
+      "name": "Downtown Loft",
+      "price": "$4,200/month",
+      "location": "Seattle, WA",
+      "image": "https://images.unsplash.com/photo-1567496898669-ee935f5f647a",
+      "beds": 1,
+      "baths": 1,
+      "sqft": 950,
+      "type": "rent"
+    },
+    {
+      "id": 5,
+      "name": "Mountain Retreat",
+      "price": "$1,500,000",
+      "location": "Aspen, CO",
+      "image": "https://images.unsplash.com/photo-1506126613408-eca07ce68773",
+      "beds": 4,
+      "baths": 3,
+      "sqft": 3500,
+      "type": "sale"
+    },
+    {
+      "id": 6,
+      "name": "Urban Penthouse",
+      "price": "$6,800/month",
+      "location": "Chicago, IL",
+      "image": "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267",
+      "beds": 3,
+      "baths": 2.5,
+      "sqft": 2200,
+      "type": "rent"
+    },
+    {
+      "id": 7,
+      "name": "Historic Brownstone",
+      "price": "$2,100,000",
+      "location": "Boston, MA",
+      "image": "https://images.unsplash.com/photo-1574362848149-11496d93a7c7",
+      "beds": 5,
+      "baths": 3.5,
+      "sqft": 4000,
+      "type": "sale"
+    },
+    {
+      "id": 8,
+      "name": "Seaside Cottage",
+      "price": "$3,900/month",
+      "location": "San Diego, CA",
+      "image": "https://images.unsplash.com/photo-1523217582562-09d0def993a6",
+      "beds": 2,
+      "baths": 2,
+      "sqft": 1400,
+      "type": "rent"
+    },
+    {
+      "id": 9,
+      "name": "Contemporary Estate",
+      "price": "$3,200,000",
+      "location": "Austin, TX",
+      "image": "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9",
+      "beds": 6,
+      "baths": 5,
+      "sqft": 5500,
+      "type": "sale"
+    },
+    {
+      "id": 10,
+      "name": "City View Studio",
+      "price": "$2,800/month",
+      "location": "Portland, OR",
+      "image": "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688",
+      "beds": 1,
+      "baths": 1,
+      "sqft": 800,
+      "type": "rent"
+    }
+  ]
+}

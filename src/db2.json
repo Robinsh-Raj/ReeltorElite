@@ -1,0 +1,65 @@
+{
+    "initialData": {
+      "stats": {
+        "totalProperties": "1,234",
+        "totalRevenue": "$2.5M",
+        "growthRate": "+15%"
+      },
+      "chartData": {
+        "labels": ["Jan", "Feb", "Mar", "Apr", "May", "Jun"],
+        "revenue": [30000, 35000, 32000, 40000, 45000, 50000],
+        "transactions": [120, 150, 140, 160, 180, 200]
+      }
+    },
+    "propertiesData": {
+      "stats": {
+        "totalListings": "850",
+        "activeListings": "384",
+        "pendingSales": "45"
+      },
+      "chartData": {
+        "labels": ["Jan", "Feb", "Mar", "Apr", "May", "Jun"],
+        "listings": [800, 820, 850, 830, 860, 850],
+        "sales": [30, 40, 35, 45, 40, 45]
+      }
+    },
+    "mockData": {
+      "overview": {
+        "stats": {
+          "TotalProperties": "1,234",
+          "TotalRevenue": "$2.5M",
+          "GrowthRate": "+15%"
+        },
+        "chartData": {
+          "labels": ["Jan", "Feb", "Mar", "Apr", "May", "Jun"],
+          "revenue": [30000, 35000, 32000, 40000, 45000, 50000],
+          "transactions": [120, 150, 140, 160, 180, 200]
+        }
+      },
+      "sales": {
+        "stats": {
+          "PropertiesSold": "456",
+          "SalesRevenue": "$1.8M",
+          "SalesGrowth": "+20%"
+        },
+        "chartData": {
+          "labels": ["Jan", "Feb", "Mar", "Apr", "May", "Jun"],
+          "salesVolume": [15, 20, 18, 25, 30, 35],
+          "salesValue": [450000, 600000, 540000, 750000, 900000, 1050000]
+        }
+      },
+      "rentals": {
+        "stats": {
+          "RentalProperties": "778",
+          "RentalIncome": "$700K",
+          "OccupancyRate": "95%"
+        },
+        "chartData": {
+          "labels": ["Jan", "Feb", "Mar", "Apr", "May", "Jun"],
+          "occupancyRate": [85, 88, 90, 92, 95, 94],
+          "rentalIncome": [25000, 28000, 30000, 32000, 35000, 34000]
+        }
+      }
+    }
+  }
+  
