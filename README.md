@@ -1,8 +1,8 @@
 # 🏢 ReeltorElite - Luxury Real Estate Platform
-ReeltorElite transforms property browsing into an immersive experience with stunning visuals and powerful analytics.
+ReeltorElite is a modern real estate platform built with React, featuring an elegant UI design and comprehensive property management capabilities. The platform offers seamless property browsing, detailed analytics, and interactive dashboards.
 
 # Screenshot
-<img src = "https://github.com/Robinsh-Raj/Photo-Application/blob/main/Screenshot%20(191).png" alt="first"> 
+<img src = "https://github.com/Robinsh-Raj/ReeltorElite/blob/main/Reeltor.png" alt="first"> 
 
 
 # 🌟 Features
